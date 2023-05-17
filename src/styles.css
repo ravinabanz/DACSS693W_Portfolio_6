@@ -1,0 +1,15 @@
+body {
+  font-family: sans-serif;
+}
+
+#map {
+  height: 100%; /* The height of the map is 400px*/
+  width: 100%; /*The width of the map is the width of the page */
+}
+
+html,
+body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
